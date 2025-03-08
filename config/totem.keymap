@@ -88,7 +88,7 @@
            &kp SQT        &kp COMMA   &kp PERIOD     &kp P        &kp Y        &kp F    &kp G        &kp C        &kp R       &kp L
            &mt LGUI A     &mt LALT O  &mt LCTRL E    &mt LSHFT U  &kp I        &kp D    &mt RSHFT H  &mt RCTRL T  &mt RALT N  &mt RGUI S
 &kp SLASH  &kp SEMICOLON  &kp Q       &kp J          &kp K        &kp X        &kp B    &kp M        &kp W        &kp V       &kp Z       &kp BSLH
-                                      &kp BACKSPACE  &lt NAV TAB  &kp SPACE    &kp RET  &lt SYM ESC  &kp BSPC
+                                      &kp BACKSPACE  &lt NAV TAB  &kp SPACE    &kp RET  &lt SYM ESC  &kp DELETE
             >;
         };
 
